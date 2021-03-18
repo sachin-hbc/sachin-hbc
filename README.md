@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sachin-hbc
+- 👋 Hi, I’m @sachin
 - 👀 I’m interested in Analytics and Business Intelligence
 - 🌱 I’m currently learning Airflow, Docker, Snowflake
 - 💞️ I’m looking to collaborate on Pipelines for Supply Chain
